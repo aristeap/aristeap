@@ -51,7 +51,7 @@ A web app that identifies plants from uploaded images.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
 
 ---
-<!--
+
 ### 💅 Beauty-salon-API-Laravel  
 An API project for managing a beauty salon.  
 
@@ -65,7 +65,7 @@ An API project for managing a beauty salon.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
--->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aristea-papaspyrou-8277a02a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aristea-papaspyrou-8277a02a0" height="30" width="40" /></a>
