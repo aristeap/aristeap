@@ -3,12 +3,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 
 - 🔭 I’m currently working on [plant-detector-api](https://github.com/aristeap/plant_detector_deployment_version)
 
