@@ -19,6 +19,8 @@ This project includes a production ready RAG bot in which you can upload company
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
 
+---
+
 
 ### 🎓 EMU-webApp-expanded – Thesis Project  
 My thesis project for EMU with multiple repositories.   
