@@ -4,9 +4,21 @@
 ###
 
 
-- 🔭 I’m currently working on [plant-detector-api](https://github.com/aristeap/plant_detector_deployment_version)
 
 ## 🚀 Projects
+
+### 🤖 Enterprise-Grade Multimodal RAG & Agentic Assistant
+This project includes a production ready RAG bot in which you can upload company-like files (pdf,pptx,xls,md) and ask questions about them
+
+- 📂 [GitHub Repository](https://github.com/aristeap/enterprise-rag-assistant)  
+
+**Tech stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
+
 
 ### 🎓 EMU-webApp-expanded – Thesis Project  
 My thesis project for EMU with multiple repositories.   
